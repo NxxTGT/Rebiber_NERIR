@@ -3,7 +3,10 @@ A tool for normalizing bibtex with official info
 
 
 Installation 
-git clone 
-Step #1 pip install rebiber
+[git clone ](https://github.com/SUSTechIR/Rebiber_NERIR.git)https://github.com/SUSTechIR/Rebiber_NERIR.git
+cd Rebiber_NERIR
+pip install rebiber
 
-step #2
+
+Usage
+bash process.sh
